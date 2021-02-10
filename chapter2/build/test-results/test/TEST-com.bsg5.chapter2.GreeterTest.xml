@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bsg5.chapter2.GreeterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-09T22:05:08" hostname="decsefi99-HP-EliteDesk-800-G4-SFF" time="0.003">
+  <properties/>
+  <testcase name="testHelloWorld" classname="com.bsg5.chapter2.GreeterTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

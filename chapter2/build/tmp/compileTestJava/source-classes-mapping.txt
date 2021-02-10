@@ -1,0 +1,4 @@
+com/bsg5/chapter2/GreeterTest.java
+ com.bsg5.chapter2.GreeterTest
+com/bsg5/chapter2/SpringGreeterTest.java
+ com.bsg5.chapter2.SpringGreeterTest
