@@ -2,3 +2,4 @@ rootProject.name = 'bsg5'
 
 //ad inclusions as the chapter sources are followed
 include 'chapter2'
+include 'chapter3'
